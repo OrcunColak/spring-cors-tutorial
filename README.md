@@ -3,6 +3,9 @@
 The original idea is from  
 https://medium.com/@vino7tech/understanding-cors-and-csrf-in-spring-boot-7a2d92259592
 
+Also see  
+https://medium.com/@sallu-salman/cross-origin-resource-sharing-cors-in-spring-boot-applications-116163a88adc
+
 Project that does not use spring security example
 
 ```
@@ -29,6 +32,7 @@ public class CorsConfig {
     }
 }
 ```
+
 Project that does not use spring security example
 
 ```
